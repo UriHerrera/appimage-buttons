@@ -5,8 +5,9 @@ AppImage Buttons to add to your README files.
 ## Usage
 
 ```
-![label](https://github.com/UriHerrera/appimage-buttons/blob/main/buttons/appimage-btn-$COLOR.svg)
+ [![appimage-button](https://github.com/UriHerrera/appimage-buttons/blob/main/buttons/appimage-btn-light.svg)](https://your-url.com/)
 ```
+### Buttons
 
 ![](https://github.com/UriHerrera/appimage-buttons/blob/main/buttons/appimage-btn-light.svg)
 
