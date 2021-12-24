@@ -9,7 +9,7 @@ AppImage Buttons to add to your README files.
 ```
 ### Buttons
 
-Color options are light and dark.
+`$COLOR` options are `light` and `dark`.
 
 ![](https://github.com/UriHerrera/appimage-buttons/blob/main/buttons/appimage-btn-light.svg)
 
