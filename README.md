@@ -17,4 +17,4 @@ Color options are light and dark.
 
 Buttons  are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-_Fonts used are Oxygen and Noto Sans._
+_The fonts used were Oxygen and Noto Sans._
